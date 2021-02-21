@@ -41,11 +41,11 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-titles-from-headings"
   gem "jekyll-include-cache"
-  gem "github-pages", group: :jekyll_plugins
-  gem "jekyll-include-cache", group: :jekyll_plugins
-  # # Non-Github Pages plugins:
-  # gem "jekyll-last-modified-at"
-  # gem "jekyll-compose"
+
+
+  # Non-Github Pages plugins:
+  gem "jekyll-last-modified-at"
+  gem "jekyll-compose"
 end
 
 gem 'wdm' if Gem.win_platform?
