@@ -17,19 +17,18 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  "ko-KR"
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                Java Blog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  "다양한 알고리즘 공부 및 개인 공부 블로그"
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               개인 공부 및 정보 공유를 위한 블로그
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,19 +41,19 @@ logo:                  /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <서> <민우>
+  email:               <smw123123@naver.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
+  - title:             Algorithm
+    url:               /algorithm/
+  - title:             Study
+    url:               /study/
+  - title:             Docs
     url:               /docs/
-  - title:             About
-    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -134,11 +133,11 @@ defaults:
       layout:          plain
       sitemap:         false
 
-  # # You can use the following to enable comments on all posts.
-  # - scope:
-  #     type:            posts
-  #   values:
-  #     comments:        true
+  # You can use the following to enable comments on all posts.
+  - scope:
+      type:            posts
+    values:
+      comments:        true
 
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
@@ -173,7 +172,7 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <username>
+disqus:                rain3321
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
