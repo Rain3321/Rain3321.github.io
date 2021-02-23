@@ -3,7 +3,8 @@ layout: page
 title: Algorithm
 ---
 
-테스트를 위해 만들어둠
+# 백준 알고리즘
 
 
-* [Post Test](https://rain3321.github.io/2021/02/22/Test-Posting)
+* [캐슬 디펜스](https://rain3321.github.io/2021/02/22/BJ-17135)
+* [아기 상어](https://rain3321.github.io/2021/02/23/BJ-16236)
