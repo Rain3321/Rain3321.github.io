@@ -10,9 +10,10 @@ baseurl:             ''
 # About/contact
 author:
   name:              Seo Min Woo
-  url:               https://github.com/rain3321
   email:             smw123123@naver.com
-
+  
+github:
+ repo:              https://github.com/rain3321/rain3321.github.com/
 # 
 comments:
   provider:          disqus

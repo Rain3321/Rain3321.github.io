@@ -8,10 +8,13 @@ title: About
 </p>
 
 
-이런 테마를 활용해서 제작하였습니다.
+이런 요소들을 활용해서 제작하였습니다: 
 
-* [Lanyon](http://lanyon.getpoole.com)
+* Built for [Jekyll](https://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Visual Studio Code](https://code.visualstudio.com/)
+* Theme from [Lanyon](http://lanyon.getpoole.com)
 
-관심있으시다면 해당 깃허브에서 확인해주시면 감사하겠습니다. [GitHub](https://github.com/poole).
 
 읽어주셔서 감사합니다!
+Thanks for Watching!
