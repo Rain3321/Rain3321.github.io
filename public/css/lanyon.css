@@ -252,15 +252,38 @@ a.sidebar-nav-item:focus {
   }
 }
 
-.sright{
-  position: fixed;
-  right: 0;
-  top: 10%;
-}
 @media print {
   .sidebar-toggle {
     display: none;
   }
+}
+
+.sright{
+  position: fixed;
+  right: 1%;
+  top: 10%;
+}
+
+.toc__menu{
+  list-style: none;
+  border: 1px solid;
+  margin: 0%;
+  padding: 0;
+  border-collapse: collapse;
+}
+.toc__menu li a {
+  color: #9a9a9a;
+}
+.toc__menu li {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+.toc__menu li a:hover,
+.toc__menu li a:focus {
+  text-decoration: none;
+  background-color: rgba(255,255,255,.1);
+  border-color: transparent;
 }
 
 /* Slide effect

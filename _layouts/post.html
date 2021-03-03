@@ -6,13 +6,9 @@ layout: default
 
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
-  
-  <aside class="sidebar__right" style="height: auto !important">
-    <div class="toc">
-      {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
-    </div>
-  </aside>
-  
+  <aside class="sright"> 
+    {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
+</aside>
   {{ content }}
 
 </div>
