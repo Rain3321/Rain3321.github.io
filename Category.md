@@ -3,4 +3,5 @@ layout: page
 title: category
 ---
 
-* [JAVA](java)
+* [Algorithm](algorithm)
+* [Java](java)
