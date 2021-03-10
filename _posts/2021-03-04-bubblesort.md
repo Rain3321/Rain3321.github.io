@@ -2,7 +2,7 @@
 layout: post
 title: 다양한 정렬 정리(1) - 버블 정렬
 comments: true
-categories: java
+categories: algorithm
 ---
 - - -
 > 알고리즘을 풀기 위한 방법으로 몇가지 정렬을 사용할 수 있다.
