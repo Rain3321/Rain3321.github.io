@@ -50,8 +50,14 @@ h1, h2, h3, h4, h5, h6 {
   color: #313131;
   letter-spacing: -.025rem;
 }
-
-
+.post  p{
+  font-size: 17px;
+  color: black;
+}
+.post > ul > li{
+  font-size: 17px;
+  color: black;
+}
 /*
  * Wrapper
  *
