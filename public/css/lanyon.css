@@ -50,11 +50,15 @@ h1, h2, h3, h4, h5, h6 {
   color: #313131;
   letter-spacing: -.025rem;
 }
-.post  p{
+.post p{
   font-size: 17px;
   color: black;
 }
 .post > ul > li{
+  font-size: 17px;
+  color: black;
+}
+.post > ol > li{
   font-size: 17px;
   color: black;
 }
@@ -292,16 +296,23 @@ a.sidebar-nav-item:focus {
   list-style: none;
   margin : 0;
   padding: 0;
+  
+}
+.toc__menu li a{
+  color: #202020;
 }
 .toc__menu ul{
   margin: 0;
   padding: 4px;
   list-style: none;
   font-size: 0.75em;
+  
+  
 }
 .toc__menu ul li{
   padding: 0px 10px;
 }
+
 
 /* .toc__menu{
   list-style: none;
