@@ -25,13 +25,19 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 
   <div class="sidebar-item">
     <p>
+      <a href="{{ site.github.repo }}"><i class="fab fa-github"></i> Github</a>
+    </p> 
+    <p>
+      <a href="mailto:{{site.author.email}}"><i class="fas fa-paper-plane"></i> E-Mail</a>
+    </p> 
+    <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
     </p>
+    
   </div>
 </div>
