@@ -1,22 +1,38 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               BLOG
+tagline:             '개발하면서 기록하기'
+description:         '다양한 분야의 개발 공부를 기록하고 복습하기 위해 운영하는 블로그'
+url:                 https://rain3321.github.io
 baseurl:             ''
-paginate:            5
-permalink:           pretty
+
+
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
-
+  name:              Seo Min Woo
+  email:             smw123123@naver.com
+  
+github:
+ repo:              https://github.com/rain3321/rain3321.github.com/
+# 
+comments:
+  provider:          disqus
+  disqus:
+    shortname:       rain3321
+mathjax: true # whether support mathjax
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-admin
+
+# Style
+
+paginate:           5
+permalink:           pretty
 
 # Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+version:             1.0.0
+google_analytics_id: UA-190420073-1
+
+
