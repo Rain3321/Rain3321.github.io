@@ -13,7 +13,7 @@ author:
   email:             smw123123@naver.com
   
 github:
- repo:              https://github.com/rain3321/rain3321.github.com/
+ repo:              https://github.com/rain3321/
 # 
 comments:
   provider:          disqus
@@ -32,7 +32,7 @@ paginate:           5
 permalink:           pretty
 
 # Custom vars
-version:             1.0.0
+version:             1.0.1
 google_analytics_id: UA-190420073-1
 
 
