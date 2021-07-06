@@ -297,9 +297,13 @@ a.sidebar-nav-item:focus {
 }
 .toc__menu li a{
   font-size: 0.75em;
-  color: #202020;
-}.toc__menu li:hover{
-  background-color: #26d2c3;
+  color: #19a0a5;
+}.toc__menu li a:hover{
+  color: #116b6e;
+  font-size: 0.8em;
+  transition: .5s;
+  text-decoration: none;
+  text-shadow: 0 0 1.2em;
 }
 .toc__menu ul{
   margin: 0;
