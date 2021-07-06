@@ -3,6 +3,6 @@ layout: category
 title: web
 ---
 
-# Web(front, Back) 정리 
+# Web(Spring) 정리 
 
 - - -  
