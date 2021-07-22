@@ -9,6 +9,8 @@ title: About
   궁금한 점 있다면 메일이나 댓글로 질문해주세요!!
 </p>
 
+> e-mail : smw123123@gmail.com
+
 이런 요소들을 활용해서 제작하였습니다:
 
 - Built for [Jekyll](https://jekyllrb.com)
