@@ -2,7 +2,7 @@
 title: BLOG
 tagline: "개발하면서 기록하기"
 description: "다양한 분야의 개발 공부를 기록하고 복습하기 위해 운영하는 블로그"
-url: "https://rain3321.github.io"
+url: https://rain3321.github.io
 baseurl: ""
 
 # About/contact
