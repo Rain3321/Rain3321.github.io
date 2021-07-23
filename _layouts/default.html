@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="ko-KR">
-
   {% include head.html %}
 
   <body class="theme-base">
@@ -18,14 +17,11 @@
         </div>
       </div>
 
-      <div class="container content"> 
-        {{ content }}
-      </div>
+      <div class="container content">{{ content }}</div>
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
-    <script src='{{ site.baseurl }}/public/js/script.js'></script>
+    <script src="{{ site.baseurl }}/public/js/script.js"></script>
   </body>
-  
 </html>
