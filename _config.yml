@@ -21,6 +21,7 @@ mathjax: true # whether support mathjax
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-admin
 
 # Style
