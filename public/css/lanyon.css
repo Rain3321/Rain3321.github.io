@@ -98,6 +98,13 @@ h6 {
   }
 }
 
+.content {
+  border: #bebebe solid 1px;
+  padding-top: 1rem;
+}
+.post {
+  border-bottom: #bebebe solid 1px;
+}
 /*
  * Masthead
  *
