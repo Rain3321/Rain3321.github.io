@@ -1,5 +1,5 @@
 # Setup
-title: 우민
+title: 우매함의 봉우리를 넘어서며
 tagline: "개발하면서 기록하기"
 description: "다양한 분야의 개발 공부를 기록하고 복습하기 위해 운영하는 블로그입니다"
 url: https://rain3321.github.io
@@ -8,7 +8,7 @@ baseurl: ""
 # About/contact
 author:
   name: Seo Min Woo
-  email: smw123123@naver.com
+  email: smw123123@gmail.com
 
 github:
   repo: https://github.com/rain3321/
