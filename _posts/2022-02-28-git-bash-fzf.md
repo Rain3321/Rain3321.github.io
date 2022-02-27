@@ -6,7 +6,9 @@ categories: etc
 ---
 
 회사 맥에서 사용하는 터미널 툴중에 파일을 찾을 때 굉장히 강력한 툴이 바로 fzf 이다.
-링크: https://github.com/junegunn/fzf
+
+링크: [https://github.com/junegunn/fzf](https://github.com/junegunn/fzf)
+
 git 작업을 할때도 굉장히 편리하다.
 
 ```
@@ -31,4 +33,5 @@ git 작업을 할때도 굉장히 편리하다.
 이제 다양한 git alias 를 적용하여 사용해보자.
 
 더 많은 활용을 위해서는 이를 이용한 프로젝트를 사용해보면 되지 않을까?
-https://github.com/junegunn/fzf/wiki/Related-projects
+
+[https://github.com/junegunn/fzf/wiki/Related-projects](https://github.com/junegunn/fzf/wiki/Related-projects)
