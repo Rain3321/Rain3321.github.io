@@ -2,7 +2,7 @@
 layout: post
 title: 윈도우에 터미널 설정하기
 comments: true 
-categories: personal
+categories: etc
 ---
 
 회사에서는 Mac을 사용하고 집에서는 윈도우를 사용하다보니 윈도우의 커맨드가 익숙치 않아 작업이 헷갈릴 때가 있다.
