@@ -1,3 +1,4 @@
+---
 layout: post
 title: window git bash에서 fzf 사용하기
 comments: true 
