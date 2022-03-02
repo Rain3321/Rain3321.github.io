@@ -9,9 +9,9 @@ JpaRepository 는 `PagingAndSortingRepository` 를 상속받고  `PagingAndSorti
 
 `Repository` > `CrudRepository` > `PagingAndSortingRepository` > `JpaRepository`
 
-- `[CrudRepository](http://static.springsource.org/spring-data/data-commons/docs/current/api/org/springframework/data/repository/CrudRepository.html)` : CRUD의 기능을 제공함.
-- `[PagingAndSortingRepository](http://static.springsource.org/spring-data/data-commons/docs/current/api/org/springframework/data/repository/PagingAndSortingRepository.html)` : 페이지네이션과 레코드 정렬  메서드를 제공함.
-- `[JpaRepository](http://static.springsource.org/spring-data/data-jpa/docs/current/api/org/springframework/data/jpa/repository/JpaRepository.html)` : 한번에 레코드를 삭제하거나 영속성 컨텍스트를 플러시 하는등의 jpa와 관련된 메서드를 제공함.
+- [CrudRepository](http://static.springsource.org/spring-data/data-commons/docs/current/api/org/springframework/data/repository/CrudRepository.html) : CRUD의 기능을 제공함.
+- [PagingAndSortingRepository](http://static.springsource.org/spring-data/data-commons/docs/current/api/org/springframework/data/repository/PagingAndSortingRepository.html) : 페이지네이션과 레코드 정렬  메서드를 제공함.
+- [JpaRepository](http://static.springsource.org/spring-data/data-jpa/docs/current/api/org/springframework/data/jpa/repository/JpaRepository.html) : 한번에 레코드를 삭제하거나 영속성 컨텍스트를 플러시 하는등의 jpa와 관련된 메서드를 제공함.
 
 그래서 `JpaRepository` 나  `PagingAndSortingRepository` 의 기능을 사용하지 않을 것이라면 `CrudRepository`을 사용하면 된다.
 
