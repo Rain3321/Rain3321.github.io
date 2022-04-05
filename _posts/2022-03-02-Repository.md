@@ -2,7 +2,7 @@
 layout: post
 title: CrudRepository와 JpaRepository 차이 (Spring)
 comments: true
-categories: web
+categories: study
 ---
 
 JpaRepository 는 `PagingAndSortingRepository` 를 상속받고  `PagingAndSortingRepository` 는 `CrudRepository`를 상속받는 구조이다.

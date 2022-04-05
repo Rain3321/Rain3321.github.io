@@ -2,7 +2,7 @@
 layout: post
 title: 다양한 정렬 정리(3) - 병합 정렬
 comments: true
-categories: algorithm
+categories: study
 ---
 - - -
 > 합병 정렬이라고도 부르며, **분할-정복** 방법을 통해 구현한다.

@@ -2,7 +2,7 @@
 layout: post
 title: 쿠키와 세션
 comments: true
-categories: web
+categories: study
 ---
 ### 비교
 

@@ -3,10 +3,9 @@ layout: page
 title: category
 ---
 
+<br>
 
-* [Algorithm](algorithm)
-* [Java](java)
-* [취업준비](personal)
-* [Web](web)
-* [문제풀이](coding)
+* [공부한 내용 정리](study)
+* [개인 회고](personal)
+* [문제풀이](algorithm)
 * [그 외 기타](etc)

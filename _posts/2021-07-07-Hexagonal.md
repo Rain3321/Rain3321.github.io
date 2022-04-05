@@ -2,7 +2,7 @@
 layout: post
 title: 헥사고날 아키텍처(Hexagonal Architecture)
 comments: true
-categories: web
+categories: study
 ---
 
 ```

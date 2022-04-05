@@ -2,7 +2,7 @@
 layout: post
 title: 다양한 정렬 정리(1) - 버블 정렬
 comments: true
-categories: algorithm
+categories: study
 ---
 - - -
 > 버블 정렬(Bubble Sort)는 선택정렬과 유사한 알고리즘으로 **서로 인접한 두 원소의 대소를 비교**하고, 조건에 맞지 않다면 **자리를 교환**하며 정렬하는 알고리즘이다.

@@ -2,7 +2,7 @@
 layout: post
 title: Lombok 애노테이션 공부(1)
 comments: true
-categories: web
+categories: study
 ---
 
 ```

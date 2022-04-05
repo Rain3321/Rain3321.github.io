@@ -2,7 +2,7 @@
 layout: post
 title: Gradle dependencies의 기본 구조
 comments: true
-categories: java
+categories: study
 ---
 
 java gradle dependencies 블록에서 `api`, `implementation`, `complieOnly`, `runtimeOnly`, `annotaionProcessor` 을 사용하는데 어떤 동작을 하는지 명확하게 알지 못해 이참에 정리해보자.

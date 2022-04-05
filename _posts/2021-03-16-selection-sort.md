@@ -2,7 +2,7 @@
 layout: post
 title: 다양한 정렬 정리(2) - 선택정렬
 comments: true
-categories: algorithm
+categories: study
 ---
 - - -
 > 선택정렬(Selection Sort)는 버블 정렬과 유사한 알고리즘으로, 해당 순서에 원소를 넣을 위치는 이미 정해져 있고,

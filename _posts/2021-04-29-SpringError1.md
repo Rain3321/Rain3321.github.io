@@ -2,7 +2,7 @@
 layout: post
 title: MyBatis-Invalid bound statement (not found) 에러
 comments: true 
-categories: web
+categories: study
 ---
 
 ![에러](https://user-images.githubusercontent.com/39397110/116561235-1a0b9d00-a93d-11eb-9ece-ed4dfd661906.png)
