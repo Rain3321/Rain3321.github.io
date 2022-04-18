@@ -94,7 +94,7 @@ spring:
 
 ```
 
-만약 private repository 로 생성하였다면 인증정보를 추가하여야 합니다. 그 부분은 [여기]()를 확인해주세요.
+만약 private repository 로 생성하였다면 인증정보를 추가하여야 합니다. 그 부분은 [여기](/study/2022/04/17/config-private-repo)를 확인해주세요.
 
 
 ### 테스트
